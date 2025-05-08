@@ -1,5 +1,5 @@
 # Text Analytics Using R
-This repository contains the code, workspace, and report for a text analytics project completed for the course **CSCI 6444: Big Data & Analytics** at The George Washington University.
+This repository contains the code, workspace, and report for a text analytics project completed for the course CSCI 6444: Big Data & Analytics at The George Washington University.
 
 ---
 
